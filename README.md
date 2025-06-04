@@ -1,5 +1,7 @@
 # Rem-waste React Project
 
+**Demo:** [https://rem-waste-react-challenge.onrender.com/](https://rem-waste-react-challenge.onrender.com/)
+
 This project is part of a frontend development challenge for **Rem Waste Management**. The goal of this project is to **redesign and implement one of the core pages** of their website using modern frontend tools and practices.
 
 The main focus is on creating a responsive, interactive, and user-friendly UI for selecting skip hire options, based on dynamic data and user interaction.
